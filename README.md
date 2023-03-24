@@ -22,3 +22,19 @@
 ![Screenshot_5](https://user-images.githubusercontent.com/95550202/227467611-88f26e02-8dba-4f93-8df4-9c7fef03d9e8.png)
 
 В моем случае были выбраны следующие компоненты:
+
+![Screenshot_1](https://user-images.githubusercontent.com/95550202/227501774-0128593d-b7de-4c58-b658-4678d02d4c39.png)
+
+### Шаг 3. Когда дизайн готов - переходим к коду!
+Открыть область, где нужно писать код можно множеством способов, самый легкий - щелкнуть 2 раза по каждой кнопке Button.
+
+В кнопке Clear записан следующий код:
+
+![Screenshot_3](https://user-images.githubusercontent.com/95550202/227503236-fcae7b7e-439e-4331-920d-2efdeb19f869.png)
+
+Но с описанием кода кнопки Generate нужно немного потрудиться (он длинноват):
+
+![Screenshot_4](https://user-images.githubusercontent.com/95550202/227503910-07e583c5-7e6f-4d71-8e88-6d41f6089c7d.png)
+
+### Шаг 4. Разбор кода.
+
